@@ -38,13 +38,17 @@ Develop a multiclass classifier using a deep multilayer perceptron (MLP) with Ke
 📦 Datasets Used
 1.**MNIST** – Handwritten digits (28×28 grayscale images)
 Source: tensorflow.keras.datasets.mnist
+2. **CIFAR-10** - Colored images in 10 categories(32x32 RGB images)
+Source: tensorflow.keras.datasets.cifar10
 
 ---
 
 # 📊 Model Overview
-- MNIST Model:
+- **MNIST Model**:
   - Flatten → Dense(512, 256, 128, 128, 64, 32) → Dense(10, softmax)
-- Common Parameters:
+- **CIFAR-10 Model**:
+  - Flatten →  Dense(512, 128, 32) → Dense(10, softmax)
+- **Common Parameters**:
   - Activation: ReLU (hidden layers), Softmax (output)
   - Loss Function: Categorical Crossentropy
   - Optimizer: Adam
@@ -54,6 +58,7 @@ Source: tensorflow.keras.datasets.mnist
 
 # 🧪 Results
 - MNIST Test Accuracy: ✅ Achieved strong performance on handwritten digit recognition
+- CIFAR-10 Test Accuracy: 📈 Trained and evaluated on 10-class visual objects
 - Accuracy and loss graphs are plotted using matplotlib
 - GUI successfully loads .jpg images and predicts their class
 
