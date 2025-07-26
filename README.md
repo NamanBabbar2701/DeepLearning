@@ -11,13 +11,9 @@ A collection of my Deep Learning assignments and projects, created while learnin
 
 ## 📁 Folders Overview
 
-- `Assignment_1/` – 🔢 Neural Network Basics  
-- `Assignment_2/` – 🖼️ CNN for Image Classification  
-- `Assignment_3/` – 🔁 RNNs & LSTMs  
-- `Assignment_4/` – 🚀 Transfer Learning  
-- `Projects/` – 🧪 Mini Projects  
-- `Notes/` – 📒 Learning Notes  
-
+- `Assignment_1/` – 🔧 Environment Setup & Binary Classification using TensorFlow/Keras  
+- `Assignment_2/` – 🧠 Multiclass Classification on MNIST & CIFAR-10 using DNN with GUI Integration   
+  
 ---
 
 ## 🧰 Tools Used
@@ -32,13 +28,8 @@ A collection of my Deep Learning assignments and projects, created while learnin
 
 ## 🧠 Topics Covered
 
-- ANN, CNN, RNN, LSTM  
-- Activation & Loss Functions  
-- Optimizers  
-- Evaluation Metrics  
-- Regularization & Overfitting  
-- Transfer Learning  
-- Data Augmentation  
+- Deep Neural Network for binary and multiclass classification
+- Environment setup and configuration using TensorFlow, Keras, Google Colab, and Kaggle
 
 ---
 
@@ -46,5 +37,10 @@ A collection of my Deep Learning assignments and projects, created while learnin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/DeepLearning.git
+   git clone https://github.com/NamanBabbar2701/DeepLearning.git
    cd DeepLearning
+
+---
+
+⏳ This repository will be updated periodically as I complete additional deep learning assignments. In the meantime, feel free to explore the existing content.
+
