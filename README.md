@@ -75,7 +75,7 @@ Develop a multiclass classifier using a deep multilayer perceptron (MLP) with Ke
 # 📁 File Structure
 ```bash
   Assignment_2/
-  ├── mnist_dnn_gui_classifier.py     # Complete code: model + training + Tkinter GUI
+  ├── mnist_dnn_gui_classifier.ipynb     # Complete code: model + training + Tkinter GUI
   ├── requirements.txt                # Required Python packages
   ├── README.md                       # Project documentation
  
