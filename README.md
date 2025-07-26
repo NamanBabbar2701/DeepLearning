@@ -37,9 +37,8 @@ Develop a multiclass classifier using a deep multilayer perceptron (MLP) with Ke
 
 📦 Datasets Used
 1. **MNIST** – Handwritten digits (28×28 grayscale images)
-   Source: tensorflow.keras.datasets.mnist
-2. **CIFAR-10** - Colored images in 10 categories(32x32 RGB images)
-    Source: tensorflow.keras.datasets.cifar10
+       Source: tensorflow.keras.datasets.mnist
+
 
 ---
 
