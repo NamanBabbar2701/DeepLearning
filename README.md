@@ -81,8 +81,8 @@ Now you're ready to access Kaggle datasets directly via code!
 
 ## ✅ Topics Covered
 
--Deep Neural Network modeling for binary classification
--Environment setup and configuration with Google Colab, Kaggle, and GitHub
+- Deep Neural Network modeling for binary classification
+- Environment setup and configuration with Google Colab, Kaggle, and GitHub
 
 ---
 
