@@ -28,6 +28,10 @@ Develop a binary classifier using deep multilayer perceptron (MLP) with Keras/Te
 - Kaggle (for dataset)
 - Git and GitHub
 
+📦 To install these dependencies locally, please refer to the [`requirements.txt`](./requirements.txt) file:
+```bash
+    pip install -r requirements.txt
+```
 ---
 
 ## 📦 Dataset Used
@@ -72,7 +76,7 @@ To use Kaggle datasets in Google Colab or your code, follow these steps to gener
    files.upload()
 7. Move the file to the appropriate directory and set permissions:
    ```python
-   !mkdir -p ~/.kaggle
+    !mkdir -p ~/.kaggle
     !mv kaggle.json ~/.kaggle/
     !chmod 600 ~/.kaggle/kaggle.json
 Now you're ready to access Kaggle datasets directly via code!
