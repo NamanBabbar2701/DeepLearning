@@ -83,6 +83,16 @@ Now you're ready to access Kaggle datasets directly via code!
 
 ---
 
+## 📁 File Structure
+```bash
+    Assignment_1/
+    ├── model_training.ipynb         # Model building and training notebook
+    ├── requirements.txt             # Dependencies (optional)
+    ├── README.md                    # This file
+    └── covid-19-tweets-dataset/     # Unzipped dataset from Kaggle
+```
+---
+
 ## ✅ Topics Covered
 
 - Deep Neural Network modeling for binary classification
